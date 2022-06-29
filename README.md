@@ -54,7 +54,7 @@ docker-compose up -d
 
 ## Screenshots
 
-![browse](images/Genres and moods.png?raw=true 'Playlist')
+![browse](images/Genres%20and%20moods.png?raw=true 'Playlist')
 ![playlist](file:///C:/Users/ANKIT/Pictures/Screenshots/Screenshot%20(1421).png 'Artist')
 ![artist](file:///C:/Users/ANKIT/Pictures/Screenshots/Screenshot%20(1422).png'Artist')
 ![devices](file:///C:/Users/ANKIT/Pictures/Screenshots/Screenshot%20(1423).png')
