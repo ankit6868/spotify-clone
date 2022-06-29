@@ -54,9 +54,9 @@ docker-compose up -d
 
 ## Screenshots
 
-![browse](images/browse.png?raw=true 'Playlist')
-![playlist](images/playlist.png?raw=true 'Artist')
-![artist](images/artist.png?raw=true 'Artist')
-![devices](images/devices.png?raw=true 'Artist')
+![browse](Screenshot%20(1420).png?raw=true 'Playlist')
+![playlist](Screenshot%20(1421).png?raw=true 'Artist')
+![artist](Screenshot%20(1422).png?raw=true 'Artist')
+![devices](Screenshot%20(1423).png?raw=true 'Artist')
 
 More in images folder.
